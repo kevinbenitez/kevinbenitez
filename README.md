@@ -22,7 +22,7 @@ I focus on business process improvement, requirements gathering, data governance
 
 ## 🔭 What I'm Currently Working On 
 
-🏦 Financial Analytics Dashboard: Building an automated reporting system processing monthly and annual spend
-📊 DIS Software Asset Management (SAM) Lifecycle Program & Software License Optimization for reporting and oversight
-🤖 Predictive Models: Developing forecasting systems and machine learning models
-🎓 Continuous learning, analytical research, and development
+🏦 Financial Analytics Dashboard: Building an automated reporting system processing monthly and annual spend<br>
+📊 DIS Software Asset Management (SAM) Lifecycle Program & Software License Optimization for reporting and oversight<br>
+🤖 Predictive Models: Developing forecasting systems and machine learning models<br>
+🎓 Continuous learning, analytical research, and development<br>
