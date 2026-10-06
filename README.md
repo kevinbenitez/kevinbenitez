@@ -18,7 +18,7 @@ I’m a Business and Data Solutions Analyst with over 7 years of experience. I e
 I focus on business process improvement, requirements gathering, data governance, and project management.
 
 <!-- 🌐 Insert GitHub username and add projects -->
-### [🏆 Check Out My Full Portfolio Website](https://github.com/kevinbenitez/kevinbenitez)
+### [🏆 Check Out My Full Portfolio Website](https://github.com/kevinbenitez/kevinbenitez.github.io)
 
 ## 🔭 What I'm Currently Working On 
 
